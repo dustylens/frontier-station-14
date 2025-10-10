@@ -87,3 +87,11 @@
   rules: ghost-role-information-nonantagonist-rules
   entityPrototype: NFMobHumanBuddy
   whitelisted: true
+
+- type: ghostRole
+  id: RoachRosy
+  name: ghost-role-information-rosy-name
+  description: ghost-role-information-rosy-description
+  rules: ghost-role-information-emotional-support-rules
+  entityPrototype: MobRoachRosy
+  whitelisted: true

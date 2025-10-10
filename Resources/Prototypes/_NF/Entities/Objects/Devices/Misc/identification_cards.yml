@@ -336,6 +336,14 @@
     name: Curie
 
 - type: entity
+  parent: DocIDCard
+  id: RosyIDCard
+  name: rosy ID card
+  components:
+  - type: PresetIdCard
+    name: Rosy
+
+- type: entity
   parent: NFPirateFirstMateIDCard
   id: ClarpyIDCard
   name: clarpy ID card

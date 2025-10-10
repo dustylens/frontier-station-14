@@ -326,6 +326,53 @@
       types: {}
 
 - type: entity
+  id: MobRoachRosy
+  parent: [NFMobPet, MobRoachRosyGhost]
+  name: Rosy
+  description: 
+  components:
+  - type: Sprite
+    drawdepth: Mobs
+    sprite: _NF/Mobs/Animals/rosy_mothroach.rsi
+    layers:
+    - map: ["enum.DamageStateVisualLayers.Base"]
+      state: mothroach
+  - type: DamageStateVisuals
+    states:
+      Alive:
+        Base: mothroach
+  - type: GhostRole
+    name: ghost-role-information-rosy-name
+    description: ghost-role-information-rosy-description
+    rules: ghost-role-information-nonantagonist-rules
+    prototype: MobRoachRosy
+    mindRoles: [ MindRoleGhostRoleNeutral ]
+  - type: Loadout
+    prototypes: [ MobRoachRosyGear ]
+  - type: RandomMetadata
+    nameSegments: null
+  - type: AutoImplant
+    implants:
+    - MindShieldImplant
+    - MedicalTrackingImplant
+  - type: IntrinsicRadioTransmitter
+    channels:
+    - Medical
+  - type: ActiveRadio
+    channels:
+    - Medical
+  - type: NpcFactionMember
+    factions:
+      - Cat
+      - PetsNT
+  - type: AutoToggleableOuterClothing
+  - type: Vocal
+    sounds:
+      Male: UnisexMoth
+      Female: UnisexMoth
+      Unsexed: UnisexMoth
+
+- type: entity
   id: MobCatBloodCult
   parent: [NFMobPet, MobCatMistake]
   name: blood cult cat

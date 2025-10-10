@@ -92,3 +92,6 @@ nf-ghost-role-information-derelict-cyborg-description = You are a cyborg that's 
 
 nf-ghost-role-information-buddy-name = Buddy
 nf-ghost-role-information-buddy-description = You were constructed from a Build-A-Buddy kit. Become someone's best friend today!
+
+nf-ghost-role-information-rosy-name = Rosy
+nf-ghost-role-information-rosy-description = Rosy the Medical Mothroach. Keep the DoC on track and don't eat any important documents!

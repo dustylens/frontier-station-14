@@ -200,3 +200,18 @@
     nameSegments: [NamesFox]
   - type: Inventory
     speciesId: fox
+
+- type: entity
+  suffix: Ghost
+  parent: [BaseEmotionalGhost, MobMothroach]
+  id: MobRoachRosyGhost
+  components:
+  - type: ReplacementAccent
+    accent: mothroach
+  - type: Vocal
+    sounds:
+      Male: UnisexMoth
+      Female: UnisexMoth
+      Unsexed: UnisexMoth
+  - type: Inventory
+    speciesId: hamster

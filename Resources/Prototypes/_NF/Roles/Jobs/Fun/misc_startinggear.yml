@@ -27,6 +27,12 @@
     id: CurieIDCard
 
 - type: startingGear
+  id: MobRoachRosyGear
+  equipment:
+    head: ClothingHeadNurseHat
+    id: RosyIDCard
+
+- type: startingGear
   id: MobClarpyGear
   equipment:
     head: ClothingHeadHatPirate
