@@ -3,7 +3,7 @@
 <Box>
   <GuideEntityEmbed Entity="BannerMedical" Caption="Restore"/>
   <GuideEntityEmbed Entity="NFPosterContrabandFsbLogo" Caption="Research"/>
-  <GuideEntityEmbed Entity="BannerCargo" Caption="Recover"/>
+  <GuideEntityEmbed Entity="BannerEngineering" Caption="Recover"/>
 </Box>
 <Box>
 <GuideEntityEmbed Entity="ShuttleMapCaladrius" Caption=""/>

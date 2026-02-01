@@ -4,8 +4,8 @@ meta:
   engineVersion: 267.3.0
   forkId: ""
   forkVersion: ""
-  time: 01/27/2026 05:11:37
-  entityCount: 2543
+  time: 02/01/2026 23:45:08
+  entityCount: 2544
 maps: []
 grids:
 - 1
@@ -6527,13 +6527,6 @@ entities:
     - type: Transform
       pos: 1.6420497,-19.453623
       parent: 1
-- proto: CargoTechFabNF
-  entities:
-  - uid: 815
-    components:
-    - type: Transform
-      pos: 2.5,-11.5
-      parent: 1
 - proto: Carpet
   entities:
   - uid: 920
@@ -8612,6 +8605,13 @@ entities:
     components:
     - type: Transform
       pos: -7.532772,9.627087
+      parent: 1
+- proto: EngineeringTechFab
+  entities:
+  - uid: 815
+    components:
+    - type: Transform
+      pos: 2.5,-11.5
       parent: 1
 - proto: ExtinguisherCabinetFilled
   entities:
@@ -13533,6 +13533,12 @@ entities:
       rot: -1.5707963267948966 rad
       pos: 3.5,9.5
       parent: 1
+  - uid: 2238
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: -5.5,-16.5
+      parent: 1
 - proto: LockerWallColorHydroponicsFilled
   entities:
   - uid: 640
@@ -16577,14 +16583,6 @@ entities:
     - type: Transform
       pos: -13.5,-31.5
       parent: 1
-- proto: SpawnMechEMU
-  entities:
-  - uid: 2237
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: -5.5,-15.5
-      parent: 1
 - proto: SpawnPointLatejoin
   entities:
   - uid: 1278
@@ -17016,6 +17014,11 @@ entities:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 2.5,2.5
+      parent: 1
+  - uid: 2237
+    components:
+    - type: Transform
+      pos: -5.5,-15.5
       parent: 1
   - uid: 2499
     components:
@@ -19350,14 +19353,6 @@ entities:
     - type: Transform
       pos: -5.5,-16.5
       parent: 1
-- proto: WallWeaponCapacitorRecharger
-  entities:
-  - uid: 2238
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -5.5,-16.5
-      parent: 1
 - proto: WarningWaste
   entities:
   - uid: 1111
@@ -19389,6 +19384,11 @@ entities:
     components:
     - type: Transform
       pos: -9.5,-2.5
+      parent: 1
+  - uid: 2543
+    components:
+    - type: Transform
+      pos: -5.5,-15.5
       parent: 1
 - proto: WindoorSecure
   entities:
