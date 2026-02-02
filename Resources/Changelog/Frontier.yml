@@ -7321,3 +7321,10 @@ Entries:
   id: 6537
   time: '2026-02-02T06:47:05.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4275
+- author: Minerva
+  changes:
+    - type: Fix
+      message: Captain ID cards are no longer contraband.
+  id: 6538
+  time: '2026-02-02T06:49:44.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4258
