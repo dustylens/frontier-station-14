@@ -7328,3 +7328,10 @@ Entries:
   id: 6538
   time: '2026-02-02T06:49:44.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4258
+- author: Bonaout
+  changes:
+    - type: Tweak
+      message: Wireless cameras can now be toggled on/off (Thanks to Marlyn!)
+  id: 6539
+  time: '2026-02-02T09:08:22.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4243
