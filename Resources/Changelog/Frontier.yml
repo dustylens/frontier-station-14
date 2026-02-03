@@ -7349,3 +7349,12 @@ Entries:
   id: 6541
   time: '2026-02-03T04:27:38.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4273
+- author: Minerva
+  changes:
+    - type: Tweak
+      message: >-
+        The Hauler has been given the Salvage and Cargo techfabs, as well as a
+        price increase to $75000.
+  id: 6542
+  time: '2026-02-03T04:43:07.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4277
