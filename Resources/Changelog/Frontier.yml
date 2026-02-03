@@ -7342,3 +7342,10 @@ Entries:
   id: 6540
   time: '2026-02-03T02:49:28.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4271
+- author: dustylens
+  changes:
+    - type: Tweak
+      message: Crescent hull update. New sec room.
+  id: 6541
+  time: '2026-02-03T04:27:38.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4273
