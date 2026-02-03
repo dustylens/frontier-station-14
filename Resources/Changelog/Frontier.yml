@@ -7365,3 +7365,10 @@ Entries:
   id: 6543
   time: '2026-02-03T06:04:42.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4267
+- author: Minerva
+  changes:
+    - type: Fix
+      message: Cleanades are no longer C2 contraband, and are now only C1 contraband.
+  id: 6544
+  time: '2026-02-03T07:19:55.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4291
