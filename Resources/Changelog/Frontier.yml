@@ -7358,3 +7358,10 @@ Entries:
   id: 6542
   time: '2026-02-03T04:43:07.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4277
+- author: dustylens
+  changes:
+    - type: Tweak
+      message: Stasis minor hull update and atmos pass.
+  id: 6543
+  time: '2026-02-03T06:04:42.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4267
