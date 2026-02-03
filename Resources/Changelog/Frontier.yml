@@ -7372,3 +7372,10 @@ Entries:
   id: 6544
   time: '2026-02-03T07:19:55.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4291
+- author: SemperVictor
+  changes:
+    - type: Add
+      message: Added the Firefighter to the Edison shipyard console.
+  id: 6545
+  time: '2026-02-03T07:42:05.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4284
