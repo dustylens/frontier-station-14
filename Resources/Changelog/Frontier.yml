@@ -7393,3 +7393,12 @@ Entries:
   id: 6547
   time: '2026-02-05T05:02:43.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4292
+- author: dustylens
+  changes:
+    - type: Tweak
+      message: >-
+        Nanomed and Nanomed plus inventories adjusted. Correct topical count and
+        additional chems for round start use.
+  id: 6548
+  time: '2026-02-05T05:14:41.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4260
