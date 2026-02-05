@@ -189,7 +189,7 @@
     thrust: 650
     thrustPerPartLevel: [650, 812, 974, 1136]
   - type: ApcPowerReceiver
-    powerLoad: 200
+    powerLoad: 500
   - type: Sprite
     sprite: _NF/Structures/Shuttles/gyroscope.rsi
     layers:
