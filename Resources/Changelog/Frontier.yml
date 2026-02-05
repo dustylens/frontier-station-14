@@ -7402,3 +7402,12 @@ Entries:
   id: 6548
   time: '2026-02-05T05:14:41.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4260
+- author: MagosAmphrose
+  changes:
+    - type: Add
+      message: The Drozd and appropriate ammo is now available to the NFSD for its use!
+    - type: Tweak
+      message: The WT-550 has been relegated to be a sheriff-only weapon in the uplink.
+  id: 6549
+  time: '2026-02-05T05:25:18.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4278
