@@ -7411,3 +7411,10 @@ Entries:
   id: 6549
   time: '2026-02-05T05:25:18.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4278
+- author: Minerva
+  changes:
+    - type: Tweak
+      message: Mercenaries can now select balaclavas for their loadout.
+  id: 6550
+  time: '2026-02-05T05:25:26.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4293
