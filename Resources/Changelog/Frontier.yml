@@ -7425,3 +7425,10 @@ Entries:
   id: 6551
   time: '2026-02-05T06:03:59.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4272
+- author: Bonaout
+  changes:
+    - type: Tweak
+      message: Clarrpy now stuns instead of dealing damage!
+  id: 6552
+  time: '2026-02-05T06:39:22.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4256
