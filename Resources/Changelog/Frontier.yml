@@ -7386,3 +7386,10 @@ Entries:
   id: 6546
   time: '2026-02-05T05:00:33.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4232
+- author: Minerva
+  changes:
+    - type: Tweak
+      message: The goblin plushie now deals 1 slash damage a hit.
+  id: 6547
+  time: '2026-02-05T05:02:43.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4292
