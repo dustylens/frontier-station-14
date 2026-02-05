@@ -7418,3 +7418,10 @@ Entries:
   id: 6550
   time: '2026-02-05T05:25:26.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4293
+- author: dustylens
+  changes:
+    - type: Tweak
+      message: Small gyros are slightly more robust.
+  id: 6551
+  time: '2026-02-05T06:03:59.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4272
