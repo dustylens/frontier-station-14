@@ -7439,3 +7439,12 @@ Entries:
   id: 6553
   time: '2026-02-05T06:40:00.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4225
+- author: dustylens
+  changes:
+    - type: Fix
+      message: >-
+        Sheleg pills now contain Stelloxadone instead of Stellibinin.
+        Traumoxadone quantity slightly increased. 
+  id: 6554
+  time: '2026-02-05T07:41:55.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4238
