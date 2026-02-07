@@ -263,92 +263,58 @@
 # Nanocaf drinks
 
 - type: reagent
+  parent: BaseDrink
+  id: NFBaseDrinkNanocaf
+  abstract: true
+  recognizable: true
+  metabolisms:
+    Drink:
+      effects:
+      - !type:SatiateThirst
+        factor: 2
+      - !type:GenericStatusEffect
+        key: Drowsiness
+        time: 2.0
+        type: Remove
+  metamorphicSprite:
+    sprite: _NF/Objects/Consumable/Drinks/genericcoffeecup.rsi
+    state: icon
+
+- type: reagent
   id: Nanocaf
   name: reagent-name-nanocaf
-  parent: BaseDrink
+  parent: NFBaseDrinkNanocaf
   desc: reagent-desc-nanocaf
   physicalDesc: reagent-physical-desc-aromatic
   flavor: nanocaf
   color: "#664c00"
-  recognizable: true
-  metabolisms:
-    Drink:
-      effects:
-      - !type:SatiateThirst
-        factor: 2
-      - !type:GenericStatusEffect
-        key: Drowsiness
-        time: 2.0
-        type: Remove
-  metamorphicSprite:
-    sprite: _NF/Objects/Consumable/Drinks/genericcoffeecup.rsi
-    state: icon
 
 - type: reagent
   id: NanoColdBrew
   name: reagent-name-nanocoldbrew
-  parent: BaseDrink
+  parent: NFBaseDrinkNanocaf
   desc: reagent-desc-nanocoldbrew
   physicalDesc: reagent-physical-desc-aromatic
   flavor: nanocoldbrew
   color: "#8e6d4c"
-  recognizable: true
-  metabolisms:
-    Drink:
-      effects:
-      - !type:SatiateThirst
-        factor: 2
-      - !type:GenericStatusEffect
-        key: Drowsiness
-        time: 2.0
-        type: Remove
-  metamorphicSprite:
-    sprite: _NF/Objects/Consumable/Drinks/genericcoffeecup.rsi
-    state: icon
 
 - type: reagent
   id: NanoDepresso
   name: reagent-name-nanodepresso
-  parent: BaseDrink
+  parent: NFBaseDrinkNanocaf
   desc: reagent-desc-nanodepresso
   physicalDesc: reagent-physical-desc-aromatic
   flavor: nanodepresso
   color: "#6d6d6d"
-  recognizable: true
-  metabolisms:
-    Drink:
-      effects:
-      - !type:SatiateThirst
-        factor: 2
-      - !type:GenericStatusEffect
-        key: Drowsiness
-        time: 2.0
-        type: Remove
-  metamorphicSprite:
-    sprite: _NF/Objects/Consumable/Drinks/genericcoffeecup.rsi
-    state: icon
 
 - type: reagent
   id: NanoCoftea
   name: reagent-name-coftea
-  parent: BaseDrink
+  parent: NFBaseDrinkNanocaf
   desc: reagent-desc-coftea
   physicalDesc: reagent-physical-desc-aromatic
   flavor: nanocoftea
   color: "#353E2E"
-  recognizable: true
-  metabolisms:
-    Drink:
-      effects:
-      - !type:SatiateThirst
-        factor: 2
-      - !type:GenericStatusEffect
-        key: Drowsiness
-        time: 2.0
-        type: Remove
-  metamorphicSprite:
-    sprite: _NF/Objects/Consumable/Drinks/genericcoffeecup.rsi
-    state: icon
 
   # Coffee drinks
 
