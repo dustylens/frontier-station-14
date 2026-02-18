@@ -7478,3 +7478,10 @@ Entries:
   id: 6558
   time: '2026-02-14T23:12:37.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4234
+- author: the-hivequeen
+  changes:
+    - type: Remove
+      message: Trade Mall holiday trees taken down. NT-allotted cheer season is over.
+  id: 6559
+  time: '2026-02-18T17:35:33.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4309
