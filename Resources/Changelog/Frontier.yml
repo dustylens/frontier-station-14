@@ -7485,3 +7485,12 @@ Entries:
   id: 6559
   time: '2026-02-18T17:35:33.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4309
+- author: Bartholemew Dingleberry
+  changes:
+    - type: Tweak
+      message: >-
+        Solar Research now includes Solar Assembly Flatpacks, which can be made
+        at Circuit Imprinters
+  id: 6560
+  time: '2026-02-18T17:36:18.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4307
