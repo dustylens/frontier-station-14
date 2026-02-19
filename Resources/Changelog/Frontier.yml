@@ -7501,3 +7501,13 @@ Entries:
   id: 6561
   time: '2026-02-19T00:29:56.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4324
+- author: arimah
+  changes:
+    - type: Tweak
+      message: >-
+        The Hammer's wiring now goes all the way to the space door, for ease of
+        construction. Consult the power monitoring computer or a t-ray scanner
+        for exact wire layout.
+  id: 6562
+  time: '2026-02-19T04:17:03.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4312
