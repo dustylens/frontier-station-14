@@ -7494,3 +7494,10 @@ Entries:
   id: 6560
   time: '2026-02-18T17:36:18.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4307
+- author: JojyAsmir, FairlySadPanda and VasilisThePikachu
+  changes:
+    - type: Fix
+      message: Updated soundfonts for less janky MIDI playback
+  id: 6561
+  time: '2026-02-19T00:29:56.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4324
