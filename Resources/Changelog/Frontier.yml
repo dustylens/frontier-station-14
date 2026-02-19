@@ -7532,3 +7532,14 @@ Entries:
   id: 6565
   time: '2026-02-19T23:20:03.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4330
+- author: Minerva
+  changes:
+    - type: Add
+      message: >-
+        Arachnids can now craft spider webs—the full-tile ones that slow you—for
+        1 silk.
+    - type: Tweak
+      message: Arachnids are now immune to the slowdown from being in spider webs.
+  id: 6566
+  time: '2026-02-19T23:27:38.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4327
