@@ -7543,3 +7543,10 @@ Entries:
   id: 6566
   time: '2026-02-19T23:27:38.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4327
+- author: the-hivequeen
+  changes:
+    - type: Remove
+      message: You can no longer execute targeting yourself.
+  id: 6567
+  time: '2026-02-19T23:35:59.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4311
