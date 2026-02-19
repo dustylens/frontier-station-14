@@ -7518,3 +7518,10 @@ Entries:
   id: 6563
   time: '2026-02-19T04:25:16.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4244
+- author: Marlyn
+  changes:
+    - type: Fix
+      message: Opporozidone no longer has instarot bugs
+  id: 6564
+  time: '2026-02-19T12:11:17.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4251
